@@ -1,5 +1,5 @@
 import './NavBar.scss'
-import LogoN from '../assets/images/logoN.png'
+import LogoJ from '../assets/images/logoJ.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 import {
@@ -14,7 +14,7 @@ function NavBar() {
     <>
       <div className="nav-bar">
         <Link className="logo" to="/jeshwanth.github.io/">
-          <img src={LogoN} alt="Logo" />
+          <img src={LogoJ} alt="Logo" />
         </Link>
         <nav>
           <NavLink exact="true" activeclassname="active" to="/jeshwanth.github.io/">

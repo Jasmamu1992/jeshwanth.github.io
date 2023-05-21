@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import AnimatedLetters from './AnimatedLetters'
-import LogoTitle from '../assets/images/logoN.png'
+import LogoTitle from '../assets/images/logoJ.png'
 import './Home.scss'
 import jeshResume from '../assets/doc/jeshwanth.challagundla.pdf'
 
@@ -29,7 +29,7 @@ function Home() {
             <br />
             <span className={`${letterClass} _13`}>I</span>
             <span className={`${letterClass} _14`}>'m</span>
-            <img src={LogoTitle} alt="Nethra Mugala" />
+            <img src={LogoTitle}/>
             <AnimatedLetters
               letterClass={letterClass}
               strArray={nameArray}
