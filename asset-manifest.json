@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio-react/static/css/main.870021ff.css",
+    "main.css": "/my-portfolio-react/static/css/main.bca35fca.css",
     "main.js": "/my-portfolio-react/static/js/main.e03a5e68.js",
     "static/media/The_Weeknd_Blinding_Lights.mp3": "/my-portfolio-react/static/media/The_Weeknd_Blinding_Lights.ca70097469a1b78dbd1a.mp3",
     "static/media/jeshwanth.challagundla.pdf": "/my-portfolio-react/static/media/jeshwanth.challagundla.e91dd526610d3357377a.pdf",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff": "/my-portfolio-react/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/my-portfolio-react/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/my-portfolio-react/index.html",
-    "main.870021ff.css.map": "/my-portfolio-react/static/css/main.870021ff.css.map",
+    "main.bca35fca.css.map": "/my-portfolio-react/static/css/main.bca35fca.css.map",
     "main.e03a5e68.js.map": "/my-portfolio-react/static/js/main.e03a5e68.js.map"
   },
   "entrypoints": [
-    "static/css/main.870021ff.css",
+    "static/css/main.bca35fca.css",
     "static/js/main.e03a5e68.js"
   ]
 }
