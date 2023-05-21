@@ -46,7 +46,7 @@ function Home() {
           <h2>
             Machine Learning Engineer
           </h2>
-          <Link to="/my-portfolio-react/contact" className="flat-button">
+          <Link to="/jeshwanth.github.io/contact" className="flat-button">
             CONTACT ME
           </Link>
           <a href={jeshResume} target='_blank' className="flat-button">

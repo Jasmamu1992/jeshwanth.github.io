@@ -12,11 +12,11 @@ function App() {
     <>
     <Soundbar />
     <Routes>
-      <Route path="/my-portfolio-react" element={<Layout/>}>
+      <Route path="/jeshwanth.github.io" element={<Layout/>}>
         <Route index element={<Home/>} />
-        <Route path="/my-portfolio-react/about" element={<About/>} />
-        <Route path="/my-portfolio-react/projects" element={<Projects/>} />
-        <Route path="/my-portfolio-react/contact" element={<Contact/>} />
+        <Route path="/jeshwanth.github.io/about" element={<About/>} />
+        <Route path="/jeshwanth.github.io/projects" element={<Projects/>} />
+        <Route path="/jeshwanth.github.io/contact" element={<Contact/>} />
       </Route>
     </Routes>
     </>

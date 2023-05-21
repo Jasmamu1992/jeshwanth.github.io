@@ -13,21 +13,21 @@ function NavBar() {
   return (
     <>
       <div className="nav-bar">
-        <Link className="logo" to="/my-portfolio-react/">
+        <Link className="logo" to="/jeshwanth.github.io/">
           <img src={LogoN} alt="Logo" />
         </Link>
         <nav>
-          <NavLink exact="true" activeclassname="active" to="/my-portfolio-react/">
+          <NavLink exact="true" activeclassname="active" to="/jeshwanth.github.io/">
             <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
           </NavLink>
-          <NavLink activeclassname="active" className="about-link" to="/my-portfolio-react/about">
+          <NavLink activeclassname="active" className="about-link" to="/jeshwanth.github.io/about">
             <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
           </NavLink>
 
           <NavLink
             activeclassname="active"
             className="contact-link"
-            to="/my-portfolio-react/contact"
+            to="/jeshwanth.github.io/contact"
           >
             <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
           </NavLink>
