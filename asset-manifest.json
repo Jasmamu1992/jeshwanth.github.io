@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jeshwanth.github.io/static/css/main.42db341c.css",
-    "main.js": "/jeshwanth.github.io/static/js/main.1eace168.js",
+    "main.css": "/jeshwanth.github.io/static/css/main.7e4f9673.css",
+    "main.js": "/jeshwanth.github.io/static/js/main.47a73aca.js",
     "static/media/The_Weeknd_Blinding_Lights.mp3": "/jeshwanth.github.io/static/media/The_Weeknd_Blinding_Lights.ca70097469a1b78dbd1a.mp3",
     "static/media/jeshwanth.challagundla.pdf": "/jeshwanth.github.io/static/media/jeshwanth.challagundla.e91dd526610d3357377a.pdf",
     "static/media/logoN.png": "/jeshwanth.github.io/static/media/logoN.d0e9ca39aa8b34779b75.png",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff": "/jeshwanth.github.io/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/jeshwanth.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/jeshwanth.github.io/index.html",
-    "main.42db341c.css.map": "/jeshwanth.github.io/static/css/main.42db341c.css.map",
-    "main.1eace168.js.map": "/jeshwanth.github.io/static/js/main.1eace168.js.map"
+    "main.7e4f9673.css.map": "/jeshwanth.github.io/static/css/main.7e4f9673.css.map",
+    "main.47a73aca.js.map": "/jeshwanth.github.io/static/js/main.47a73aca.js.map"
   },
   "entrypoints": [
-    "static/css/main.42db341c.css",
-    "static/js/main.1eace168.js"
+    "static/css/main.7e4f9673.css",
+    "static/js/main.47a73aca.js"
   ]
 }
