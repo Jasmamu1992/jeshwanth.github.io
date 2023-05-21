@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-portfolio-react/static/css/main.bca35fca.css",
-    "main.js": "/my-portfolio-react/static/js/main.e03a5e68.js",
-    "static/media/The_Weeknd_Blinding_Lights.mp3": "/my-portfolio-react/static/media/The_Weeknd_Blinding_Lights.ca70097469a1b78dbd1a.mp3",
-    "static/media/jeshwanth.challagundla.pdf": "/my-portfolio-react/static/media/jeshwanth.challagundla.e91dd526610d3357377a.pdf",
-    "static/media/logoN.png": "/my-portfolio-react/static/media/logoN.d0e9ca39aa8b34779b75.png",
-    "static/media/helvetica-neu.ttf": "/my-portfolio-react/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/my-portfolio-react/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/LaBelleAurore.woff2": "/my-portfolio-react/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff": "/my-portfolio-react/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/my-portfolio-react/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/my-portfolio-react/index.html",
-    "main.bca35fca.css.map": "/my-portfolio-react/static/css/main.bca35fca.css.map",
-    "main.e03a5e68.js.map": "/my-portfolio-react/static/js/main.e03a5e68.js.map"
+    "main.css": "/jeshwanth.github.io/static/css/main.42db341c.css",
+    "main.js": "/jeshwanth.github.io/static/js/main.1eace168.js",
+    "static/media/The_Weeknd_Blinding_Lights.mp3": "/jeshwanth.github.io/static/media/The_Weeknd_Blinding_Lights.ca70097469a1b78dbd1a.mp3",
+    "static/media/jeshwanth.challagundla.pdf": "/jeshwanth.github.io/static/media/jeshwanth.challagundla.e91dd526610d3357377a.pdf",
+    "static/media/logoN.png": "/jeshwanth.github.io/static/media/logoN.d0e9ca39aa8b34779b75.png",
+    "static/media/helvetica-neu.ttf": "/jeshwanth.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/jeshwanth.github.io/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/jeshwanth.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/jeshwanth.github.io/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/jeshwanth.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/jeshwanth.github.io/index.html",
+    "main.42db341c.css.map": "/jeshwanth.github.io/static/css/main.42db341c.css.map",
+    "main.1eace168.js.map": "/jeshwanth.github.io/static/js/main.1eace168.js.map"
   },
   "entrypoints": [
-    "static/css/main.bca35fca.css",
-    "static/js/main.e03a5e68.js"
+    "static/css/main.42db341c.css",
+    "static/js/main.1eace168.js"
   ]
 }
